@@ -13,6 +13,7 @@ Leider akzeptieren die Packstationen nur einen unnötig kompliziert berechneten 
 ## Voraussetzungen
 
 - die vorhandene Postnummer muss 8-stellig sein (die Postnummer findet ihr übrigens auch im DHL-Account)
+- die vorhandene Postnummer muss 9-stellig sein (die Postnummer findet ihr übrigens auch im DHL-Account)
 
 ## Berechnung und Generierung des Barcode
 
